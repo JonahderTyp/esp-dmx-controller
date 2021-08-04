@@ -1,1 +1,1 @@
-# esp32-dmx-controller
+# esp-dmx-controller
