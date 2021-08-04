@@ -1,4 +1,3 @@
-//this should not be public    
 
 #include <WiFiManager.h> // https://github.com/tzapu/WiFiManager
 
